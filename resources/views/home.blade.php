@@ -9,19 +9,6 @@
         @include('mensagem')
 <hr>
 
-        <form action="" method="GET">
-            <div class="d-flex justify-content-end px-3">
-                <div class="mb-3">
-                    <input type="text" class="form-control" name="procura" id="procura" placeholder="Pesquisar"> 
-                </div>
-                <div class="px-2">     
-                    <button type="submit" class="btn btn-outline-dark"><i class="bi bi-search"></i></button>
-                </div> 
-            </div>
-        </form>
-
-
-
 <div class="d-flex mx-auto w-50">
 <table class="table">
     <thead>
